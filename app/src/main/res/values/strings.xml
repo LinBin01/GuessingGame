@@ -8,4 +8,10 @@
     <string name="submit">Submit</string>
     <string name="you_won">You Won!</string>
     <string name="restart">Restart</string>
+    <string name="lower">lower</string>
+    <string name="between_number">Enter a Number Between 1 and 100</string>
+    <string name="enter_number">Please Enter a Number!</string>
+    <string name="chances_left">You have %1$d chances left</string>
+    <string name="winning_number"> The Wining Number was %1$d</string>
+    <string name="you_lost">You Lost!</string>
 </resources>
